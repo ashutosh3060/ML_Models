@@ -15,4 +15,4 @@ Life cycle of a Machine Learning Project:
 9. Scope of other improvements
 10. Final recommendations
 
-##### Happy Coding
+#### Happy Coding
