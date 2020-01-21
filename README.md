@@ -2,7 +2,7 @@
 
 This repository contains codes for a Machine Learning project.
 
-Life cycle of a Machine Learning Project
+Life cycle of a Machine Learning Project:
 
 1. Data Extraction
 2. Exploratory Data Analysis
@@ -15,4 +15,4 @@ Life cycle of a Machine Learning Project
 9. Scope of other improvements
 10. Final recommendations
 
-### Happy Coding
+##### Happy Coding
