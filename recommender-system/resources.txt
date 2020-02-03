@@ -1,3 +1,4 @@
 # Resources
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 https://www.kaggle.com/fabiendaniel/film-recommendation-engine
+https://www.kaggle.com/kabure/wine-review-s-understanding-recommender-system
