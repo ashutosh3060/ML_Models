@@ -8,3 +8,4 @@ https://www.kaggle.com/fuzzywizard/rec-sys-collaborative-filtering-dl-techniques
 https://www.kaggle.com/jake126/memory-based-collaborative-filtering
 https://www.kaggle.com/varian97/item-based-collaborative-filtering
 https://www.kaggle.com/swinalmeshram/getting-started-with-recommendation-engine
+https://www.kaggle.com/katiej277/recommender-systems-collaborative-filtering
