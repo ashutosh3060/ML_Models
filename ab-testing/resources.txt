@@ -1,2 +1,26 @@
 # Resources
-https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html
+
+1. https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html
+2. https://www.quora.com/What-kind-of-A-B-testing-questions-should-I-expect-in-a-data-scientist-interview-and-how-should-I-prepare-for-such-questions
+
+Q: What is DOE ?
+Ans: DOE stands for Design of Experiments.
+
+Q: What can we achieve through A/B testing ?
+1. acquire new customers
+2. increase sales from existing customers
+3. maximize ROI on marketing campaign
+4. design new products and services
+5. optimize operations among other things
+
+Q: What is full - factorial ?
+Ans: If a factor A has m-levels and factor B has n-levels, then by following full-factorial, we need to have m*n treatments or experiments.
+
+Q: Fractional Factorial Design (FFD)
+Ans: Only a fraction or portion of combinations are run. e.g. A Half Factorial Design with a 3 factors and 2 levels will have 2^3/2 = 8/2 = 4. Best way to choose these 4 experiments is Balanced Factorial Design.
+
+Q: What are confounding and aliasing in fractional factorial design (FFD)  ?
+Ans: 
+
+Q: Python Library?
+Ans: pyDOE
