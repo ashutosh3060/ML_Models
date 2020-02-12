@@ -1,0 +1,29 @@
+### Notes From:
+
+# https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+
+There are 3 types of recommender systems.
+1. collaborative filtering methods (model based & memory based)
+2. content based methods
+3. Hybrid method (Mix content based and collaborative approaches)
+
+Collaborative filtering methods.
+2 sub-categories are: 1. memory based approach   2. model based approach
+Advantage:
+they require no information about users or items.
+Disadvantages:
+Suffers from 'cold start problem'
+memory based approach - 1. user-user, 2. item-item
+model based approach - matrix factorisation
+
+Content based methods.
+It uses additional information about users and/or items
+Advantage:
+Have the information regarding users and items, we can predict for new users or items.
+Disadvantage:
+Only new users or items with previously unseen features will logically suffer from this drawback.
+
+* In memory based collaborative methods, no latent model is assumed. These methods have low bias but high variance.
+* In model based methods, some latent interaction model is assumed. This method has high bias and low variance due to user-item interactions are assumed. 
+
+* In content based method, some latent interaction model is assumed. This method has highest bias but the lowest variance, due to represntations for user-items are given.
