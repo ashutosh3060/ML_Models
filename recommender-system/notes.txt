@@ -35,6 +35,8 @@ User - User method -
 3. Find k nearest neighbours of this user in the matrix, recommend the most popular or highly rated items among the neighbours.
 
 Item - Item method - 
+1. It tries to find items similar to the ones the user already “positively” interacted with. Two items are considered to be similar if most of the users that have interacted with both of them did it in a similar way.
+2. This method is said to be item-centred.
 
 
 
