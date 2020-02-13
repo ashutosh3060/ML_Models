@@ -4,8 +4,4 @@ https://www.kaggle.com/fabiendaniel/film-recommendation-engine
 https://www.kaggle.com/kabure/wine-review-s-understanding-recommender-system
 https://www.kaggle.com/johnosorio/retail-rocket-ecommerce-recommender-system
 https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
-https://www.kaggle.com/fuzzywizard/rec-sys-collaborative-filtering-dl-techniques
-https://www.kaggle.com/jake126/memory-based-collaborative-filtering
-https://www.kaggle.com/varian97/item-based-collaborative-filtering
-https://www.kaggle.com/swinalmeshram/getting-started-with-recommendation-engine
-https://www.kaggle.com/katiej277/recommender-systems-collaborative-filtering
+
