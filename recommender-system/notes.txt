@@ -40,6 +40,5 @@ Item - Item method -
 3. Find k nearest neighbours of this item in the matrix, recommend the most popular or highly rated items among the neighbours to the selected “best item” that are new to our user of interest and recommend these items.
 4. Instead of only choosing the most favourite item of the user, we can choose the n preffered items instead.
 
-## Comparison between user-user and item-item
 
 
