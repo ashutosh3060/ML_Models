@@ -1,11 +1,4 @@
-### Notes From:
 
-# https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
-
-There are 3 types of recommender systems.
-1. collaborative filtering methods (model based & memory based)
-2. content based methods
-3. Hybrid method (Mix content based and collaborative approaches)
 
 Collaborative filtering methods.
 2 sub-categories are: 1. memory based approach   2. model based approach
