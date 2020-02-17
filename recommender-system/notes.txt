@@ -41,4 +41,9 @@ Item - Item method -
 4. Instead of only choosing the most favourite item of the user, we can choose the n preffered items instead.
 
 ## Comparison between user-user and item-item
+1. user-user: high variance, low bias
+2. item-item: high bias, low variance
+item-item is less personalised than the user-user method
+
+
 
