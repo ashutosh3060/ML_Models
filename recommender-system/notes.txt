@@ -49,4 +49,5 @@ item-item is less personalised than the user-user method
 1. Do not scale easily. generating a new recommendation can be extremely time consuming for big systems
 2. “rich-get-richer” effect for popular items and to avoid getting users stuck into what could be called an “information confinement area”. To avoid this 'regularization is needed.
 
+** Model based Collaborative approach
 
