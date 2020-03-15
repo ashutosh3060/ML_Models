@@ -1,4 +1,2 @@
 ## Resources
-https://www.ravelin.com/insights/machine-learning-for-fraud-detection
-https://digital.hbs.edu/platform-rctom/submission/paypals-use-of-machine-learning-to-enhance-fraud-detection-and-more/
-https://www.datanami.com/2019/06/03/paypal-feeds-the-dl-beast-with-huge-vault-of-fraud-data/
+
