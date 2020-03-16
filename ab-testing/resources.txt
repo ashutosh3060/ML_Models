@@ -27,6 +27,4 @@ Ans:
 Q: Python Library?
 Ans: pyDOE
 
-Q: Resources for fractional factorial design ?
-Ans: 1. https://online.stat.psu.edu/stat503/lesson/11
-     2. https://www.york.ac.uk/depts/maths/tables/orthogonal.htm
+
