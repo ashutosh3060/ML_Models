@@ -1,3 +1,4 @@
 ## Resources
 
 https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
+https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
