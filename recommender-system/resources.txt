@@ -6,4 +6,9 @@ https://www.kaggle.com/johnosorio/retail-rocket-ecommerce-recommender-system
 https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
 https://www.kaggle.com/fuzzywizard/rec-sys-collaborative-filtering-dl-techniques
 https://www.kaggle.com/jake126/memory-based-collaborative-filtering
-
+https://www.kaggle.com/varian97/item-based-collaborative-filtering
+https://www.kaggle.com/swinalmeshram/getting-started-with-recommendation-engine
+https://www.kaggle.com/katiej277/recommender-systems-collaborative-filtering
+https://realpython.com/build-recommendation-engine-collaborative-filtering/
+https://www.kaggle.com/rdaldian/airbnb-content-based-recommendation-system
+https://github.com/karvenka/kaggle-airbnb/blob/master/notebooks/Venkatesan_Karthick_Final_Project_Report.ipynb
