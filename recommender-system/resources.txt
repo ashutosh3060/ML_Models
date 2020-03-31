@@ -12,3 +12,16 @@ https://www.kaggle.com/katiej277/recommender-systems-collaborative-filtering
 https://realpython.com/build-recommendation-engine-collaborative-filtering/
 https://www.kaggle.com/rdaldian/airbnb-content-based-recommendation-system
 https://github.com/karvenka/kaggle-airbnb/blob/master/notebooks/Venkatesan_Karthick_Final_Project_Report.ipynb
+
+# Hybrid Recommender system
+Imp: 
+1. https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender
+2. https://www.kaggle.com/uciml/restaurant-data-with-consumer-ratings
+
+https://www.kaggle.com/bsagredo/anime-neuralmf-hybrid-recommender/comments#758399
+https://www.kaggle.com/robottums/hybrid-recommender-systems-with-surprise/comments#685845
+https://www.kaggle.com/rounakbanik/movie-recommender-systems
+https://www.kaggle.com/dohuan/retailrocket-data-train-test-with-lightfm
+http://surpriselib.com/
+https://towardsdatascience.com/solving-business-usecases-by-recommender-system-using-lightfm-4ba7b3ac8e62
+https://www.kaggle.com/gunnvant/building-content-recommender-tutorial
