@@ -25,3 +25,8 @@ https://www.kaggle.com/dohuan/retailrocket-data-train-test-with-lightfm
 http://surpriselib.com/
 https://towardsdatascience.com/solving-business-usecases-by-recommender-system-using-lightfm-4ba7b3ac8e62
 https://www.kaggle.com/gunnvant/building-content-recommender-tutorial
+
+
+# Scalable Recommender system
+https://dl.acm.org/doi/10.1145/2792838.2792842
+
