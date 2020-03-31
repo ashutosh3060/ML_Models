@@ -29,7 +29,7 @@ Only new users or items with previously unseen features will logically suffer fr
 * In content based method, some latent interaction model is assumed. This method has highest bias but the lowest variance, due to represntations for user-items are given.
 
 ** Memory based Collaborative approach:
-User - User method - 
+User - User method: 
 1. It tries to find users with most similar "interactions profile" (nearest neighbours) in order to suggest items that are the most popular among these neighbours (and that are “new” to the user).
 2. It is user-centred
 3. Find k nearest neighbours of this user in the matrix, recommend the most popular or highly rated items among the neighbours.
