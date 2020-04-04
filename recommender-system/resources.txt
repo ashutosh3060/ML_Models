@@ -27,7 +27,6 @@ https://towardsdatascience.com/solving-business-usecases-by-recommender-system-u
 https://www.kaggle.com/gunnvant/building-content-recommender-tutorial
 
 
-# Scalable Recommender system
-https://dl.acm.org/doi/10.1145/2792838.2792842
+
 
 
