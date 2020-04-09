@@ -1,0 +1,7 @@
+# Resources
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/kernels
+https://www.kaggle.com/bachrr/detecting-covid-19-in-x-ray-images-with-tensorflow
+https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images
+https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
