@@ -1,3 +1,2 @@
 # Kaggle notebooks
-https://www.kaggle.com/shivamb/cnn-architectures-vgg-resnet-inception-tl
-https://www.kaggle.com/gaborvecsei/fruit-juice-mix-of-pca-random-forest-svm
+
