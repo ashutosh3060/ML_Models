@@ -1,0 +1,4 @@
+# Resources
+
+# Kaggle Notebooks
+https://www.kaggle.com/kneroma/m5-first-public-notebook-under-0-50
