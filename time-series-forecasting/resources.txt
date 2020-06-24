@@ -1,5 +1,17 @@
 # Resources
 
+
 # Kaggle Notebooks
 https://www.kaggle.com/kneroma/m5-first-public-notebook-under-0-50
 https://www.kaggle.com/kneroma/m5-forecast-v2-python
+https://www.kaggle.com/prakash711/m5-forecasting-with-tensorflow-bilstm/notebook
+
+# Code in R
+https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda
+
+# Analytics Vidhya
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+
+
+
+
