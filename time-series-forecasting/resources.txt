@@ -2,3 +2,4 @@
 
 # Kaggle Notebooks
 https://www.kaggle.com/kneroma/m5-first-public-notebook-under-0-50
+https://www.kaggle.com/kneroma/m5-forecast-v2-python
