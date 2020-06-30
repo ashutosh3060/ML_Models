@@ -15,6 +15,10 @@ https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-pytho
 https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 
 
+Deep Learning Models:
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+
+
 
 
 
