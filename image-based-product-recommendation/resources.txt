@@ -9,6 +9,7 @@ https://medium.com/@vinayakvarrier/recommendation-systems-based-on-deep-learning
 https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
 https://towardsdatascience.com/image-recommendation-engine-leverage-transfert-learning-ec9af32f5239
 http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf
+https://www.hindawi.com/journals/sp/2018/5497070/
 
 
 # Designing the look-a-scene based complementary recommendation system
