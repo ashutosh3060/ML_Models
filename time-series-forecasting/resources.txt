@@ -18,6 +18,9 @@ https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python
 Deep Learning Models:
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 
+Blogposts
+https://towardsdatascience.com/time-series-in-python-part-2-dealing-with-seasonal-data-397a65b74051
+
 
 
 
