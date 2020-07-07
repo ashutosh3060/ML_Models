@@ -3,3 +3,4 @@
 https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
 https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
 https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
+https://www.sciencedirect.com/science/article/pii/S1319157820303293
