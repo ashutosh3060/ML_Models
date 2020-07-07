@@ -10,6 +10,8 @@ https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-
 https://towardsdatascience.com/image-recommendation-engine-leverage-transfert-learning-ec9af32f5239
 http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf
 https://www.hindawi.com/journals/sp/2018/5497070/
+https://www.groundai.com/project/image-based-fashion-product-recommendation-with-deep-learning/2
+
 
 
 # Designing the look-a-scene based complementary recommendation system
