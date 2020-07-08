@@ -20,3 +20,7 @@ http://ceur-ws.org/Vol-585/paper1.pdf
 # Designing the look-a-scene based complementary recommendation system
 https://medium.com/pinterest-engineering/introducing-complete-the-look-a-scene-based-complementary-recommendation-system-eb891c3fe88
 https://github.com/kang205/STL-Dataset
+
+
+# Done
+
