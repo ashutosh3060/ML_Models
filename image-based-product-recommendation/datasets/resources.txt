@@ -1,0 +1,4 @@
+# Resources
+
+1. Street2shop
+2. Kaggle style_color_images
