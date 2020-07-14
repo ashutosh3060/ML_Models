@@ -14,6 +14,7 @@ http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf
 https://www.sciencedirect.com/science/article/pii/S1319157820303293
 https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
 https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
+https://tech.wayfair.com/data-science/2019/09/wayfair-ds-explains-it-all-ilkay-yildiz-on-learning-from-comparisons/
 https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
 
 
