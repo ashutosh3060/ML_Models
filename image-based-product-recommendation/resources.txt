@@ -15,6 +15,9 @@ https://www.sciencedirect.com/science/article/pii/S1319157820303293
 https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
 https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
 https://tech.wayfair.com/data-science/2019/09/wayfair-ds-explains-it-all-ilkay-yildiz-on-learning-from-comparisons/
+https://tech.wayfair.com/data-science/2019/10/wayfair-ds-explains-it-all-anurag-syal-on-projection-mapping-in-3d/
+https://tech.wayfair.com/data-science/2019/04/wayfair-ds-explains-it-all-object-pose-estimation/
+https://tech.wayfair.com/data-science/2020/03/the-visual-complements-model-vics-complementary-product-recommendations-from-visual-cues/
 https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
 
 
