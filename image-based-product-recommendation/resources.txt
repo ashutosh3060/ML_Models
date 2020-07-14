@@ -1,19 +1,20 @@
 ## Resources
 
-https://towardsdatascience.com/image-recommendation-engine-leverage-transfert-learning-ec9af32f5239
-https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
-https://www.sciencedirect.com/science/article/pii/S1319157820303293
+Implementation
 https://github.com/vinayakkailas/Deeplearning_Image_Similarity
 https://medium.com/@vinayakvarrier/recommendation-systems-based-on-deep-learning-9e6802c04b28
-https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
+
 https://towardsdatascience.com/image-recommendation-engine-leverage-transfert-learning-ec9af32f5239
-http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf
 https://www.hindawi.com/journals/sp/2018/5497070/
 https://www.groundai.com/project/image-based-fashion-product-recommendation-with-deep-learning/2
 https://openaccess.thecvf.com/content_iccv_2015/papers/Geng_Learning_Image_and_ICCV_2015_paper.pdf
 http://faculty.cse.tamu.edu/caverlee/pubs/niu18wsdm.pdf
 http://ceur-ws.org/Vol-585/paper1.pdf
+http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf
+https://www.sciencedirect.com/science/article/pii/S1319157820303293
 https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
+https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
+https://www.robertoreif.com/blog/2018/05/14/product-recommendations-using-image-similarity-yy76x
 
 
 # Designing the look-a-scene based complementary recommendation system
