@@ -1,6 +1,7 @@
 ## Resources
 
 https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
+https://www.kaggle.com/marlesson/building-a-recommendation-system-using-cnn
 https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
 https://www.sciencedirect.com/science/article/pii/S1319157820303293
 https://github.com/vinayakkailas/Deeplearning_Image_Similarity
