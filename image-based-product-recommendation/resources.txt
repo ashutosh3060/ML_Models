@@ -1,6 +1,5 @@
 ## Resources
 
-https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
 https://towardsdatascience.com/image-recommendation-engine-leverage-transfert-learning-ec9af32f5239
 https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/
 https://www.sciencedirect.com/science/article/pii/S1319157820303293
@@ -14,7 +13,7 @@ https://www.groundai.com/project/image-based-fashion-product-recommendation-with
 https://openaccess.thecvf.com/content_iccv_2015/papers/Geng_Learning_Image_and_ICCV_2015_paper.pdf
 http://faculty.cse.tamu.edu/caverlee/pubs/niu18wsdm.pdf
 http://ceur-ws.org/Vol-585/paper1.pdf
-
+https://www.kaggle.com/jonathanoheix/product-recommendation-based-on-visual-similarity
 
 
 # Designing the look-a-scene based complementary recommendation system
