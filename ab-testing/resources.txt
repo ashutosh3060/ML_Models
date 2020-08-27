@@ -3,6 +3,9 @@
 1. https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html
 2. https://www.quora.com/What-kind-of-A-B-testing-questions-should-I-expect-in-a-data-scientist-interview-and-how-should-I-prepare-for-such-questions
 3. https://blog.hubspot.com/marketing/ab-testing-machine-learning
+4. MAB: https://vwo.com/blog/multi-armed-bandit-algorithm/
+5. https://cxl.com/blog/bandit-tests/
+6. https://cxl.com/blog/roi-of-optimization/#roi-is-difficult-to-measure
 
 
 
