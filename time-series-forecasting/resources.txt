@@ -22,7 +22,8 @@ Blogposts
 https://towardsdatascience.com/time-series-in-python-part-2-dealing-with-seasonal-data-397a65b74051
 
 Thank you
-
+##############################
+##############################
 
 
 
