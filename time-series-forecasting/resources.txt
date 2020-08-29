@@ -21,6 +21,12 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 Blogposts
 https://towardsdatascience.com/time-series-in-python-part-2-dealing-with-seasonal-data-397a65b74051
 
+
+Interview Questions:
+http://www.data2businessinsights.in/2019/11/28/time-series-questions-and-answers/
+https://www.researchgate.net/topic/Time-Series-Modeling
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/
+
 Thank you
 ##############################
 ##############################
