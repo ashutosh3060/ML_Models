@@ -1,0 +1,7 @@
+## Interview Questions
+
+1. How do we decide the window size of moving average in time series analysis?
+Ans: https://www.quora.com/How-do-we-decide-the-window-size-of-moving-average-in-time-series-analysis
+
+2. How to check stationarity ?
+Ans: https://medium.com/@kangeugine/time-series-check-stationarity-1bee9085da05
