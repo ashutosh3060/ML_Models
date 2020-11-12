@@ -5,5 +5,7 @@ https://www.anylogistix.com/manufacturing-supply-chain-design-factory-relocation
 https://competera.net/resources/articles/machine-learning-pricing-optimization#:~:text=When%20it%20is%20applied%20to,demand%20for%20a%20given%20product.&text=No%20matter%20what%20they%20choose,price%20for%20that%20strategy%20is.
 https://www.anylogistix.com/
 
+Github code:
+https://github.com/rempic/Pricing-optimization-data-challenge/blob/master/remigio_picone_datachallenge_pricechange_decision.ipynb
 
 
