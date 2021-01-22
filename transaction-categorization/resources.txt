@@ -1,0 +1,11 @@
+https://github.com/eli-goodfriend/banking-class
+https://www.saksoft.com/using-nlp-for-banking-transaction-categorization-and-kpi-augmentation/
+https://medium.com/@nordigen/transaction-categorisation-good-vs-great-34e7e895e7c9
+https://medium.com/friendly-data/machine-learning-vs-rule-based-systems-in-nlp-5476de53c3b8
+https://zsviews.wordpress.com/2019/01/30/transaction-categorisation-using-machine-learning/
+https://blog.truelayer.com/improving-the-classification-of-your-transaction-data-with-machine-learning-c36d811e4257
+
+
+Kaggle Notebook:
+
+https://www.kaggle.com/yufengdev/bbc-text-categorization
